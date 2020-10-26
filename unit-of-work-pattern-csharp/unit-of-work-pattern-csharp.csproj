@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>UnitOfWorkPatternCSharp</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\unit-of-work-pattern-csharp-domain\unit-of-work-pattern-csharp-domain.csproj" />
+    </ItemGroup>
+
+
+</Project>

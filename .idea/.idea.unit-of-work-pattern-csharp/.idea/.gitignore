@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.unit-of-work-pattern-csharp.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Code\Projects\blog\unit-of-work-pattern-csharp\.idea\.idea.unit-of-work-pattern-csharp\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
