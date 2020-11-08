@@ -7,7 +7,7 @@ namespace UnitOfWorkPatternCSharp.Configurations
     {
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
-            services.AddTransient<ISellRepository, SellRepository>();
+            services.AddTransient<IPurchaseRepository, PurchaseRepository>();
             
             return services;
         }

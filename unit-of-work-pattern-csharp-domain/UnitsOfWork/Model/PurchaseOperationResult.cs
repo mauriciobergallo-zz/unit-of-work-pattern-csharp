@@ -1,6 +1,6 @@
 ﻿namespace UnitOfWorkPatternCSharp.Domain.UnitsOfWork.Model
 {
-    public class SellOperationResult
+    public class PurchaseOperationResult
     {
         public bool Result { get; set; }
     }

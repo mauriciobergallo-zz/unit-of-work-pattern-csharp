@@ -4,8 +4,8 @@ using UnitOfWorkPatternCSharp.Domain.UnitsOfWork.Model;
 
 namespace UnitOfWorkPatternCSharp.Domain.UnitsOfWork
 {
-    public interface ISellProductUnitOfWork
+    public interface IPurchaseProductUnitOfWork
     {
-        Task<SellOperationResult> ExecuteAsync(SellOperation operation);
+        Task<PurchaseOperationResult> ExecuteAsync(PurchaseOperation operation);
     }
 }
